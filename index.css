@@ -116,14 +116,14 @@
 @media screen and (max-width: 768px) {
   .content-card {
     border-radius: 30px;
-    padding: 30px;
+    padding: 20px;
   }
 }
 
 @media screen and (max-width: 410px) {
   .content-card {
     border-radius: 20px;
-    padding: 20px;
+    padding: 15px;
   }
 }
 
