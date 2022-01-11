@@ -1,0 +1,15 @@
+.paragraph {
+  margin-top: 25px;
+}
+
+@media screen and (max-width: 768px) {
+  .paragraph {
+    margin-top: 20px;
+  }
+}
+
+@media screen and (max-width: 410px) {
+  .paragraph {
+    margin-top: 15px;
+  }
+}

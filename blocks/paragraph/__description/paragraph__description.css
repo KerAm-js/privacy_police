@@ -1,0 +1,18 @@
+.paragraph__description {
+  font-size: 18px;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 768px) {
+  .paragraph__description {
+    font-size: 16px;
+  }
+}
+
+@media screen and (max-width: 410px) {
+  .paragraph__description {
+    font-size: 14px;
+  }
+}
